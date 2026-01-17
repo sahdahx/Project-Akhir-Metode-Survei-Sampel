@@ -70,6 +70,12 @@ Kerahasiaan responden dijaga dengan tidak mengumpulkan data identitas pribadi ya
 
 ## 📊 Results & Insight
 
+- Hasil uji validitas dan reliabilitas menunjukkan seluruh item kuesioner valid dan reliabel dengan nilai Corrected Item-Total Correlation > 0,133 dan Cronbach’s Alpha sebesar 0,895. Hal ini menandakan instrumen mampu mengukur persepsi mahasiswa secara konsisten dan akurat.
+
+- Analisis deskriptif menunjukkan bahwa secara umum mahasiswa Statistika UGM memiliki persepsi positif terhadap relevansi kurikulum dengan dunia kerja data science. Mayoritas responden memberikan penilaian setuju hingga sangat setuju, meskipun terdapat beberapa aspek yang masih dinilai moderat, terutama terkait metode pembelajaran dan keterkaitannya dengan praktik industri. Angkatan 2025 cenderung memberikan penilaian lebih tinggi dibandingkan angkatan sebelumnya.
+
+- Analisis korelasi menunjukkan seluruh variabel saling berkorelasi positif (0,31–0,64), yang mengindikasikan bahwa peningkatan pada satu aspek kurikulum berpotensi berdampak positif pada aspek lainnya, khususnya dalam kesiapan karier mahasiswa di bidang data science.
+
 ---
 
 ## 👩‍🎓 Authors
@@ -95,3 +101,4 @@ Universitas Gadjah Mada, Sleman, Indonesia
 ## 🔑 Keywords
 
 Metode Survei Sampel, Persepsi Mahasiswa, Kurikulum Statistika, Data Science, Non-Probability Sampling
+
