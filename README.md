@@ -1,4 +1,5 @@
-# Analisis Persepsi Mahasiswa Statistika UGM terhadap Relevansi Kurikulum dengan Dunia Kerja Data Science
+# Final Project - Metode Survei Sampel
+## Analisis Persepsi Mahasiswa Statistika UGM terhadap Relevansi Kurikulum dengan Dunia Kerja Data Science
 
 Proyek ini bertujuan untuk menganalisis **persepsi mahasiswa Program Studi Statistika UGM angkatan 2023–2025** terhadap **relevansi kurikulum perkuliahan dengan kebutuhan dunia kerja di bidang data science**.  
 Penelitian dilakukan menggunakan pendekatan metode survei sampel non-probabilitas berbasis kuesioner daring.
@@ -100,5 +101,6 @@ Universitas Gadjah Mada, Sleman, Indonesia
 ## 🔑 Keywords
 
 Metode Survei Sampel, Persepsi Mahasiswa, Kurikulum Statistika, Data Science, Non-Probability Sampling
+
 
 
